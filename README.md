@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-##Your Privacy
+*Your Privacy
 
 Our app comply with all policies to protect your privacy. Our Privacy Policy is a legal statement
 and has full transparency that explains how you can collect information from you, how you can
